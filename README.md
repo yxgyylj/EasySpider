@@ -1,2 +1,2 @@
 # EasySpider
-for beginners
+For beginners
